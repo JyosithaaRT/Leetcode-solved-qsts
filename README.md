@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1672-richest-customer-wealth) |
+| [1773-count-items-matching-a-rule](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1929-concatenation-of-array) |
 ## Matrix
@@ -54,5 +55,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1773-count-items-matching-a-rule](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
