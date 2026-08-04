@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0566-reshape-the-matrix) |
+| [1920-build-array-from-permutation](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1920-build-array-from-permutation) |
 ## Matrix
 |  |
 | ------- |
@@ -13,4 +14,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0566-reshape-the-matrix) |
+| [1920-build-array-from-permutation](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
