@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0053-maximum-subarray) |
 | [0566-reshape-the-matrix](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0867-transpose-matrix) |
@@ -86,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0832-flipping-an-image) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
