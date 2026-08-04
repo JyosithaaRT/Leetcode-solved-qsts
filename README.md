@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0832-flipping-an-image) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1389-create-target-array-in-the-given-order) |
 | [1470-shuffle-the-array](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1470-shuffle-the-array) |
@@ -19,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0832-flipping-an-image) |
 | [1389-create-target-array-in-the-given-order](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1929-concatenation-of-array) |
@@ -59,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1773-count-items-matching-a-rule](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Two Pointers
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0832-flipping-an-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
