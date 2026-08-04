@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0566-reshape-the-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1929-concatenation-of-array) |
 ## Matrix
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0566-reshape-the-matrix) |
+| [1672-richest-customer-wealth](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
