@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0007-reverse-integer) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
