@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1773-count-items-matching-a-rule](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0053-maximum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
