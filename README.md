@@ -81,12 +81,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0005-longest-palindromic-substring) |
 | [1773-count-items-matching-a-rule](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0005-longest-palindromic-substring) |
 | [0832-flipping-an-image](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
 |  |
@@ -99,10 +101,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0053-maximum-subarray) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
