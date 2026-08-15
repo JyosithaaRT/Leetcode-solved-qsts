@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1512-number-of-good-pairs) |
 | [2427-number-of-common-factors](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/2427-number-of-common-factors) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Counting
 |  |
 | ------- |
