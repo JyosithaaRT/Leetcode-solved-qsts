@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0053-maximum-subarray) |
 | [0566-reshape-the-matrix](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0832-flipping-an-image) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0014-longest-common-prefix) |
 | [1773-count-items-matching-a-rule](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/2427-number-of-common-factors) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
