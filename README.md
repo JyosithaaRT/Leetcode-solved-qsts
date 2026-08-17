@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0013-roman-to-integer) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0013-roman-to-integer) |
 | [0509-fibonacci-number](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0509-fibonacci-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0013-roman-to-integer) |
 | [1773-count-items-matching-a-rule](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/3090-maximum-length-substring-with-two-occurrences) |
