@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0053-maximum-subarray) |
 | [0566-reshape-the-matrix](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0832-flipping-an-image) |
@@ -171,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
