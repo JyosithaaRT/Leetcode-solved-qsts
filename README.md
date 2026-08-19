@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1773-count-items-matching-a-rule](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0832-flipping-an-image](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
 |  |
@@ -153,4 +155,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
