@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1929-concatenation-of-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Matrix
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1929-concatenation-of-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0035-search-insert-position) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/2558-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
