@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0509-fibonacci-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -185,8 +186,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0069-sqrtx) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/2558-take-gifts-from-the-richest-pile) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
