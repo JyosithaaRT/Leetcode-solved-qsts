@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0867-transpose-matrix) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0067-add-binary) |
 | [0509-fibonacci-number](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0509-fibonacci-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0067-add-binary) |
 | [1773-count-items-matching-a-rule](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0067-add-binary) |
 | [0832-flipping-an-image](https://github.com/JyosithaaRT/Leetcode-solved-qsts/tree/master/0832-flipping-an-image) |
 ## Divide and Conquer
 |  |
